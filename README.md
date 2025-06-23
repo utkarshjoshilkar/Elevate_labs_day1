@@ -37,8 +37,8 @@ internship elevate labs
 
 ```bash
 # Step 1: Clone the repository
-git clone <repository-url>
-cd calculator-project
+git clone [<repository-url>](https://github.com/utkarshjoshilkar/Elevate_labs_day1)
+cd Simple calculater
 
 # Step 2: Compile the Java files
 javac -d bin src/com/elevate/Calculator.java
